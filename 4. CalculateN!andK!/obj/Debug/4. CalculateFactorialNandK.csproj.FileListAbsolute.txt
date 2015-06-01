@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\4. CalculateN!andK!\bin\Debug\_4.CalculateN_andK_.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\4. CalculateN!andK!\bin\Debug\_4.CalculateN_andK_.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\4. CalculateN!andK!\obj\Debug\4. CalculateFactorialNandK.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\4. CalculateN!andK!\obj\Debug\_4.CalculateN_andK_.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\4. CalculateN!andK!\obj\Debug\_4.CalculateN_andK_.pdb

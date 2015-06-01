@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\5. CalculateFactorialDividedByK-N\bin\Debug\_5.CalculateFactorialDividedByK_N.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\5. CalculateFactorialDividedByK-N\bin\Debug\_5.CalculateFactorialDividedByK_N.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\5. CalculateFactorialDividedByK-N\obj\Debug\5. CalculateFactorialDividedByK-N.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\5. CalculateFactorialDividedByK-N\obj\Debug\_5.CalculateFactorialDividedByK_N.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\5. CalculateFactorialDividedByK-N\obj\Debug\_5.CalculateFactorialDividedByK_N.pdb

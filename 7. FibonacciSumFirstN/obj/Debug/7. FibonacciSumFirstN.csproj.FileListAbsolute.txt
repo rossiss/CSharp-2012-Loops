@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\7. FibonacciSumFirstN\bin\Debug\_7.FibonacciSumFirstN.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\7. FibonacciSumFirstN\bin\Debug\_7.FibonacciSumFirstN.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\7. FibonacciSumFirstN\obj\Debug\_7.FibonacciSumFirstN.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\7. FibonacciSumFirstN\obj\Debug\_7.FibonacciSumFirstN.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\7. FibonacciSumFirstN\obj\Debug\7. FibonacciSumFirstN.csprojResolveAssemblyReference.cache

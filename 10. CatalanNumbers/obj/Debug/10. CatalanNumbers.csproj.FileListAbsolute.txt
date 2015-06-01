@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\10. CatalanNumbers\bin\Debug\_10.CatalanNumbers.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\10. CatalanNumbers\bin\Debug\_10.CatalanNumbers.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\10. CatalanNumbers\obj\Debug\10. CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\10. CatalanNumbers\obj\Debug\_10.CatalanNumbers.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\10. CatalanNumbers\obj\Debug\_10.CatalanNumbers.pdb

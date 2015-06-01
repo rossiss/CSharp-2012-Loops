@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\1.  PrintAllNumbersToN\bin\Debug\_1.PrintAllNumbersToN.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\1.  PrintAllNumbersToN\bin\Debug\_1.PrintAllNumbersToN.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\1.  PrintAllNumbersToN\obj\Debug\1.  PrintAllNumbersToN.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\1.  PrintAllNumbersToN\obj\Debug\_1.PrintAllNumbersToN.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\1.  PrintAllNumbersToN\obj\Debug\_1.PrintAllNumbersToN.pdb

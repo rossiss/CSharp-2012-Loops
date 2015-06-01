@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\8. EuclideanGCD\obj\Debug\8. EuclideanGCD.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\8. EuclideanGCD\bin\Debug\_8.EuclideanGCD.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\8. EuclideanGCD\bin\Debug\_8.EuclideanGCD.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\8. EuclideanGCD\obj\Debug\_8.EuclideanGCD.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\8. EuclideanGCD\obj\Debug\_8.EuclideanGCD.pdb

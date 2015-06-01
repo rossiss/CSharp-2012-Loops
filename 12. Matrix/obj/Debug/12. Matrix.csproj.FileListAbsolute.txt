@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\12. Matrix\bin\Debug\_12.Matrix.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\12. Matrix\bin\Debug\_12.Matrix.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\12. Matrix\obj\Debug\12. Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\12. Matrix\obj\Debug\_12.Matrix.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\12. Matrix\obj\Debug\_12.Matrix.pdb

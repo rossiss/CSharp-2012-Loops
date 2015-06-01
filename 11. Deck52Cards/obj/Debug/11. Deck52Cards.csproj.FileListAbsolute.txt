@@ -1,0 +1,6 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\11. Deck52Cards\bin\Debug\_11.Deck52Cards.exe.config
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\11. Deck52Cards\bin\Debug\_11.Deck52Cards.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\11. Deck52Cards\bin\Debug\_11.Deck52Cards.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\11. Deck52Cards\obj\Debug\11. Deck52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\11. Deck52Cards\obj\Debug\_11.Deck52Cards.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\11. Deck52Cards\obj\Debug\_11.Deck52Cards.pdb

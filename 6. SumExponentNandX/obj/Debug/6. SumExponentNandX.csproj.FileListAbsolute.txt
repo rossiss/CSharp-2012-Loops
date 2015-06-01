@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\6. SumExponentNandX\obj\Debug\6. SumExponentNandX.csprojResolveAssemblyReference.cache
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\6. SumExponentNandX\bin\Debug\_6.SumExponentNandX.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\6. SumExponentNandX\bin\Debug\_6.SumExponentNandX.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\6. SumExponentNandX\obj\Debug\_6.SumExponentNandX.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\6. SumExponentNandX\obj\Debug\_6.SumExponentNandX.pdb

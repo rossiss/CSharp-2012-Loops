@@ -1,0 +1,5 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\3. SequenceNMinMax\bin\Debug\_3.SequenceNMinMax.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\3. SequenceNMinMax\bin\Debug\_3.SequenceNMinMax.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\3. SequenceNMinMax\obj\Debug\_3.SequenceNMinMax.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\3. SequenceNMinMax\obj\Debug\_3.SequenceNMinMax.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\3. SequenceNMinMax\obj\Debug\3. SequenceNMinMax.csprojResolveAssemblyReference.cache

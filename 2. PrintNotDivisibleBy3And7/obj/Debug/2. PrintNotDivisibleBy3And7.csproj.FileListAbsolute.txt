@@ -1,0 +1,4 @@
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\2. PrintNotDivisibleBy3And7\bin\Debug\_2.PrintNotDivisibleBy3And7.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\2. PrintNotDivisibleBy3And7\bin\Debug\_2.PrintNotDivisibleBy3And7.pdb
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\2. PrintNotDivisibleBy3And7\obj\Debug\_2.PrintNotDivisibleBy3And7.exe
+C:\Users\Makak\Desktop\C#\Homework\6. Loops\2. PrintNotDivisibleBy3And7\obj\Debug\_2.PrintNotDivisibleBy3And7.pdb
